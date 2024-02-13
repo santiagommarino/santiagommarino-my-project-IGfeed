@@ -1,0 +1,14 @@
+<div class="tittle">
+        <h1><strong>Breathe Code Photo Feed</strong></h1>
+    </div>
+    <div class="photoOne">
+        <div class="tittleone">
+           <p><strong>My first photo</strong></p> 
+        </div>
+        <div class="firstphoto">
+            <p>2/8</p>
+        </div>
+        <img src="https://www.webbikeworld.com/wp-content/uploads/2021/10/dark-harley-davidson-street-bob-is-how-you-make-a-motorcycle-invisible-in-the-night_3.jpeg">
+        <div class="firstcaption">
+            <h2>Dream bike soon to become reality, stay positive and achieve all your goals</h2>
+        </div>

@@ -1,0 +1,32 @@
+body {
+    margin: 15px;
+    background:rgb(220, 220, 220);
+}
+header {
+    text-align: center;
+} 
+section {
+    
+}
+.tittle {
+    padding: 2px;border: 1px solid black; position: relative;
+}
+
+.picture {
+    background: white;
+    width: 500px; 
+    margin: auto; 
+    font-size: 15px;
+}
+img {
+    width: 100%;
+}
+.caption {
+    padding: 10px;
+}
+.date {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 5px;
+}
